@@ -16,7 +16,7 @@ document.getElementById('btn-add-money').addEventListener('click', function (eve
         console.log('adding money to your account');
 
 
-        //step-4: get the current balence
+        //step-4: get the current balance
         const balance = document.getElementById('account-balance').innerText;
         console.log(balance);
 
